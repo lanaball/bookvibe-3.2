@@ -1,6 +1,7 @@
 import "./Landing.scss";
 
 const Landing = () => {
+ 
     return ( 
         <div className="landing-page">
             <div className="landing-page__header">
@@ -8,6 +9,7 @@ const Landing = () => {
                 <h2 className="display">read a book, rate its vibe.</h2>
                 <p>~</p>
             </div>
+           
         </div>
      );
 }
